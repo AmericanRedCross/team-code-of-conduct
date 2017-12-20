@@ -31,7 +31,7 @@ Team members need to cooperate effectively while also being required at times to
 
 - Video first, conditions permitting. We're all remote at some point and seeing faces helps build team cohesion and improves clarity of communication.
 - Default to keeping conversations in public channels except when there is a good reason not to do so.
-- *need a note about asyncronous communication, diff time zones, core business hours based on DC time, people often send messages at odd times but no need to respond immediately for non-disaster)*
+- Managing many timezones can be difficult. Core business hours should be referenced in Eastern US time for consitency. Messages are often sent at all hours, but in non-disaster situations, it is not expected that responses be immediate. This can be managed through notification settings on apps. Recognize that while people may appear online in apps, they could be in meetings, away from their computer, or focusing on work; there is no need to send multiple messages to get someone's attention. Expect that they have seen your message and will reply when able. 
 - Make an effort to regularly attend scrum.
 - Keep team collaboration tools up-to-date (Trello, Google Calendar).
 - Keep work location (remote, travel, Red Cross Square, PTO, etc.) updated in Slack status.
@@ -40,7 +40,7 @@ Team members need to cooperate effectively while also being required at times to
 #### Behaviors that won't be tolerated
 
 - Verbal or written abuse.
-- Sexist, racist, homophobic behavior (whether subtle or overt, inadvertent or intentional).
+- Discrimination or actions targeting race, sex, sexual orientation, pregnancy, religion, national origin, disability, age, genetic information, citizenship status. (whether subtle or overt, inadvertent or intentional).
 
 #### Process for addressing violations of this code of conduct
 - This Code of Conduct is not complete and events/actions that you consider violations may not be explicitly defined in this document. Don't let that deter you from bringing an issue to light.
