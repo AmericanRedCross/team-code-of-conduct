@@ -21,6 +21,6 @@ We are a small team aiming to accomplish big things. Team members need to cooper
 #### Process for addressing violations of this code of conduct
 - This Code of Conduct is not complete and events/actions that you consider violations may not be explicitly defined in this document. Don't let that deter you from bringing an issue to light.
 - If you are comfortable and feel safe doing so, bring it to the attention of the other person.
-- Otherwise, or if not resolved, the team lead (Emily), Dale, or the director (Marian), or other appropriate senior leadership. *What is the correct chain of escalation?*
+- Otherwise, or if not resolved, your volunteer supervisor, the team lead (Dale), or the director (Helen), or other appropriate senior leadership. *What is the correct chain of escalation?*
 - Also through HR. *who is the PoC for this kind of thing within the larger ARC structure?*
 - Help us improve this Code of Conduct to better identify the problem.
