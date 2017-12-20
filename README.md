@@ -40,7 +40,7 @@ Team members need to cooperate effectively while also being required at times to
 #### Behaviors that won't be tolerated
 
 - Verbal or written abuse.
-- Discrimination or actions targeting race, sex, sexual orientation, pregnancy, religion, national origin, disability, age, genetic information, citizenship status. (whether subtle or overt, inadvertent or intentional).
+- Discrimination or actions (whether subtle or overt, inadvertent or intentional) targeting race, sex, sexual orientation, pregnancy, religion, national origin, disability, age, genetic information, citizenship status, or any other attribute.
 
 #### Process for addressing violations of this code of conduct
 - This Code of Conduct is not complete and events/actions that you consider violations may not be explicitly defined in this document. Don't let that deter you from bringing an issue to light.
