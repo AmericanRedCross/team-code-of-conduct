@@ -33,6 +33,9 @@ Team members need to cooperate effectively while also being required at times to
 - Default to keeping conversations in public channels except when there is a good reason not to do so.
 - *need a note about asyncronous communication, diff time zones, core business hours based on DC time, people often send messages at odd times but no need to respond immediately for non-disaster)*
 - Make an effort to regularly attend scrum.
+- Keep team collaboration tools up-to-date (Trello, Google Calendar).
+- Keep work location (remote, travel, Red Cross Square, PTO, etc.) updated in Slack status.
+- Let the team know when taking-off and landing while on work travel.
 
 #### Behaviors that won't be tolerated
 
