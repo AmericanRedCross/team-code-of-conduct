@@ -8,6 +8,7 @@
 Team members need to cooperate effectively while also being required at times to operate with a large amount of independence and self-direction. The humanitarian nature of our work can be emotionally difficult and physically taxing, especially during times of disaster response. Cooperation amongst team members is often based on digital communications, and it can be challenging to interpret intent and emotion without face-to-face interaction. There are many challenges to our continued learning, growth, and accomplishments. It is vital that we function effectively together and that we understand what is expected of us as members of the team.
 
 #### Basic guidelines
+
 - Treat everyone with respect.
 - Engage in communication with respect and a mindfulness towards basic human decency.
 - Assume all communications are positive and people are treating each other with respect. Cues about emotions are often lacking from digital communications. Many of our modes of digital communication tend towards brevity, which can be easier to interpret incorrectly as being negative.
@@ -16,7 +17,7 @@ Team members need to cooperate effectively while also being required at times to
 - Acknowledge burnout is a very real risk. Never hesitate to let the team know if you need a break.
 - Respect basic human decency over the need to accomplish a given task.
 
-#### Encouraged Behaviors: 
+#### Encouraged behaviors
 
 - Be friendly and patient.
 - Be welcoming.
@@ -27,6 +28,7 @@ Team members need to cooperate effectively while also being required at times to
 - When we disagree, try to understand why.
 
 #### Behaviors that won't be tolerated
+
 - Verbal or written abuse.
 - Sexist, racist, homophobic behavior (whether subtle or overt, inadvertent or intentional).
 
