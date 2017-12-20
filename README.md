@@ -27,6 +27,13 @@ Team members need to cooperate effectively while also being required at times to
 - Assume all communications are positive.
 - When we disagree, try to understand why.
 
+#### Team practices
+
+- Video first, conditions permitting. We're all remote at some point and seeing faces helps build team cohesion and improves clarity of communication.
+- Default to keeping conversations in public channels except when there is a good reason not to do so.
+- *need a note about asyncronous communication, diff time zones, core business hours based on DC time, people often send messages at odd times but no need to respond immediately for non-disaster)*
+- Make an effort to regularly attend scrum.
+
 #### Behaviors that won't be tolerated
 
 - Verbal or written abuse.
