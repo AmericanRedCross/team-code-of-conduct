@@ -1,5 +1,3 @@
-**Early draft stage. Comment and contribute via Slack, pull requests, logged issues, etc.**
-
 ### GIS Team Code of Conduct
 
 #### Overview
