@@ -32,7 +32,7 @@ Team members need to cooperate effectively while also being required at times to
 - Make an effort to regularly attend scrum.
 - Keep team collaboration tools up-to-date (Trello, Google Calendar).
 - Keep work location (remote, travel, Red Cross Square, PTO, etc.) updated in Slack status.
-- It's nice to let the team know when taking-off and landing while on work travel. A simple emoji in Slack is fine.
+- It's nice to let the team know when taking-off 🛫 and landing 🛬 while on work travel. A simple emoji in Slack is fine.
 
 #### Behaviors that won't be tolerated
 
