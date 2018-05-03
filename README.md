@@ -45,6 +45,6 @@ Team members need to cooperate effectively while also being required at times to
 #### Process for addressing violations of this code of conduct
 - This Code of Conduct is not complete and events/actions that you consider violations may not be explicitly defined in this document. Don't let that deter you from bringing an issue to light.
 - If you are comfortable and feel safe doing so, bring it to the attention of the other person.
-- Otherwise, or if not resolved, your volunteer supervisor, the team lead (Dale), or the director (Helen), or other appropriate senior leadership (Marian and Jono).
-- Also through normal HR procedures.
+- Otherwise, or if not resolved, bring it the the attention of the next level of management/leadership as appropriate. Depending on you position and the situation this could be: your volunteer supervisor, the team lead (Dale), the IMMEL director (Helen), or other senior leadership (Marian or Jono).
+- The American Red Cross also has a variety of HR procedures and other channels for flagging ethics violations, workplace issues, and other issues.
 - Help us improve this Code of Conduct to better identify the problem, submit an edit through a pull request.
