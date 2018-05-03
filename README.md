@@ -23,16 +23,19 @@ Team members need to cooperate effectively while also being required at times to
 - Be careful in your word phrasing and tone.
 - Assume all communications are positive.
 - When we disagree, try to understand why.
+- Provide and take feedback.
 
 #### Team practices
 
-- Video first, conditions permitting. We're all remote at some point and seeing faces helps build team cohesion and improves clarity of communication.
+- Video first, conditions permitting. We are all remote at some point and seeing faces helps build team cohesion and improves clarity of communication.
 - Default to keeping conversations in public channels except when there is a good reason not to do so.
 - Working with people across many timezones can be difficult. Core business hours are based on headquarters (Washington, DC time) for consistency. Messages are often sent at all hours, but in non-disaster situations, it is not expected that responses be immediate. This can be managed through notification settings on apps. Recognize that while people may appear online in apps, they could be in meetings, away from their computer, or focusing on work; there is no need to send multiple messages to get someone's attention. Expect that they have seen your message and will reply when able. 
 - Make an effort to regularly attend scrum.
 - Keep team collaboration tools up-to-date (Trello, Google Calendar).
 - Keep work location (remote, travel, Red Cross Square, PTO, etc.) updated in Slack status.
 - It's nice to let the team know when taking-off 🛫 and landing 🛬 while on work travel. A simple emoji in Slack is fine.
+- Ask for help, advice, a second pair of eyes on most of the things you do. Don't try to operate on an island because you were assigned a task. Often other team members have past expierences or knowledge that will be helpful.
+- Constructive feedback is central to improving each person's skills. Ask for and take feedback liberally.
 
 #### Behaviors that won't be tolerated
 
