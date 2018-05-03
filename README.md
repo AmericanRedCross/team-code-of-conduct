@@ -34,7 +34,7 @@ Team members need to cooperate effectively while also being required at times to
 - Keep team collaboration tools up-to-date (Trello, Google Calendar).
 - Keep work location (remote, travel, Red Cross Square, PTO, etc.) updated in Slack status.
 - It's nice to let the team know when taking-off 🛫 and landing 🛬 while on work travel. A simple emoji in Slack is fine.
-- Ask for help, advice, a second pair of eyes on most of the things you do. Don't try to operate on an island because you were assigned a task. Often other team members have past expierences or knowledge that will be helpful.
+- You yourself, as well as team members and colleagues (in the department, the organization, and our wider networks) have valuable knowledge and past experiences. Openly communicate and collaborate on work.
 - Constructive feedback is central to improving each person's skills. Ask for and take feedback liberally.
 
 #### Behaviors that won't be tolerated
