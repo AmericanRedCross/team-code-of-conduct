@@ -9,7 +9,7 @@ Team members need to cooperate effectively while also being required at times to
 
 - The team is meant to be a safe environment.
 - Engage in communication with respect and a mindfulness towards basic human decency.
-- Assume all communications are positive and people are treating each other with respect. Cues about emotions are often lacking from digital communications. Many of our modes of digital communication tend towards brevity, which can be easier to interpret incorrectly as being negative.
+- Cues about emotions are often lacking from digital communications. Many of our modes of digital communication tend towards brevity, which can be easier to interpret as being negative. We encourage people to assume good intent but at the same time we want people to raise concerns without fearing that their feelings will be minimized, their reaction policed, or their perceptions questioned. We strive for an environment in which we can cooperatively learn how to communicate positively and effectively. 
 - Feedback is a vital part of maintaining a high quality of output from our team. Always direct focus to the product and not the person. Always be willing to both provide and receive feedback.
 - Acknowledge burnout is a very real risk. Never hesitate to let the team know if you need a break.
 - Respect basic human decency over the need to accomplish a given task.
