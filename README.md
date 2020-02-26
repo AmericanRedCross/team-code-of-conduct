@@ -23,7 +23,6 @@ Team members need to cooperate effectively while also being required at times to
 - Be careful in your word phrasing and tone.
 - Assume all communications are positive.
 - When we disagree, try to understand why.
-- Provide and take feedback.
 
 #### Team practices
 
