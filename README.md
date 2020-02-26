@@ -26,7 +26,7 @@ Team members need to cooperate effectively while also being required at times to
 
 #### Team practices
 
-- Video first, conditions permitting. We're all remote at some point and seeing faces helps build team cohesion and improves clarity of communication.
+- Video first, conditions permitting. We are all remote at some point and seeing faces helps build team cohesion and improves clarity of communication.
 - Default to keeping conversations in public channels except when there is a good reason not to do so.
 - Working with people across many timezones can be difficult. Core business hours are based on headquarters (Washington, DC time) for consistency. Messages are often sent at all hours, but in non-disaster situations, it is not expected that responses be immediate. This can be managed through notification settings on apps. Recognize that while people may appear online in apps, they could be in meetings, away from their computer, or focusing on work; there is no need to send multiple messages to get someone's attention. Expect that they have seen your message and will reply when able. 
 - Make an effort to regularly attend scrum.
@@ -42,6 +42,6 @@ Team members need to cooperate effectively while also being required at times to
 #### Process for addressing violations of this code of conduct
 - This Code of Conduct is not complete and events/actions that you consider violations may not be explicitly defined in this document. Don't let that deter you from bringing an issue to light.
 - If you are comfortable and feel safe doing so, bring it to the attention of the other person.
-- Otherwise, or if not resolved, your volunteer supervisor, the team lead (Dale), or the director (Helen), or other appropriate senior leadership (Marian and Jono).
-- Also through normal HR procedures.
+- Otherwise, or if not resolved, bring it the the attention of the next level of management/leadership as appropriate. Depending on you position and the situation this could be: your volunteer supervisor, the team lead (Dale), the IMMEL director (Helen), or other senior leadership (Marian or Jono).
+- The American Red Cross also has a variety of HR procedures and other channels for flagging ethics violations, workplace issues, and other issues.
 - Help us improve this Code of Conduct to better identify the problem, submit an edit through a pull request.
